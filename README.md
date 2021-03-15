@@ -39,3 +39,19 @@ and reduce the time taken for this task.</p>
 ## Screenshots
 
 
+![image](https://user-images.githubusercontent.com/53087631/111123456-5c4b6b80-8595-11eb-9849-8d09fb32f09b.png)
+
+
+![image](https://user-images.githubusercontent.com/53087631/111123619-961c7200-8595-11eb-97ce-864b2925b2d6.png)
+
+
+![image](https://user-images.githubusercontent.com/53087631/111123693-aaf90580-8595-11eb-9e3f-f8a2673381b8.png)
+
+
+![image](https://user-images.githubusercontent.com/53087631/111123791-c3692000-8595-11eb-85dd-1ecf6dce08c3.png)
+
+
+![image](https://user-images.githubusercontent.com/53087631/111123874-db40a400-8595-11eb-8c7d-0b2854e4bac1.png)
+
+
+![image](https://user-images.githubusercontent.com/53087631/111123945-f01d3780-8595-11eb-87df-3d80bca32f81.png)
